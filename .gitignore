@@ -1,3 +1,10 @@
+# Audio Files
+*.mp3
+*.wav
+
+# Result Files
+*.json
+
 # Built application files
 *.apk
 *.ap_
